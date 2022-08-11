@@ -17,11 +17,11 @@ Namun, setelah pergi ke toilet sebentar, kertas yang digunakan Pak Chanek untuk 
 
 ## Format Masukan
 
-    Satu baris berisi 4 buah bilangan bulat A, B, X, dan Y.
+Satu baris berisi 4 buah bilangan bulat A, B, X, dan Y.
 
 ## Format Keluaran
 
-    Beberapa baris yang menyatakan isi kertas Pak Chanek.
+Beberapa baris yang menyatakan isi kertas Pak Chanek.
 
 ## Contoh Masukan
 
