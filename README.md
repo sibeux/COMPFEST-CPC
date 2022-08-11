@@ -1,2 +1,26 @@
-# COMPFEST-CPC
-Competitive Programming Contest COMPFEST Universitas Indonesia 2022
+# COMPFEST CPC 2022
+
+## Coderclass
+
+### Pemrograman Dasar
+
+A. Masukan dan keluaran :
+
+- [x] [A plus B](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Masukan%20dan%20Keluaran/A%20plus%20B)
+- [x] [CompFest 8](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Masukan%20dan%20Keluaran/CompFest%208)
+- [x] [Hari Penimbanga](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Masukan%20dan%20Keluaran/Hari%20Penimbangan)
+
+B. Percabangan :
+
+- [x] [Berhitung](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Percabangan/Berhitung)
+- [x] [Ini Apa Ya?](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Percabangan/Ini%20Apa%20Ya)
+- [x] [Permen](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Percabangan/Permen)
+- [x] [Segitiga](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Percabangan/Segitiga)
+
+C. Perulangan:
+
+- [x] [Func-ception](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Func-ception)
+- [] [Kembali Lagi]()
+- [] [Membuat Logo]()
+- [] [Mas Universe]()
+- [] [Trace]()
