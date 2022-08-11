@@ -2,7 +2,7 @@
 
 ## Coderclass
 
-### Pemrograman Dasar
+### I. Pemrograman Dasar
 
 A. Masukan dan keluaran :
 
@@ -20,7 +20,7 @@ B. Percabangan :
 C. Perulangan:
 
 - [x] [Func-ception](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Func-ception)
-- [] [Kembali Lagi]()
-- [] [Membuat Logo]()
-- [] [Mas Universe]()
-- [] [Trace]()
+- [ ] [Kembali Lagi]()
+- [ ] [Membuat Logo]()
+- [ ] [Mas Universe]()
+- [ ] [Trace]()
