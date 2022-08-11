@@ -1,6 +1,7 @@
 # Permen
 
 Time limit 1 s
+
 Memory limit 64 MB
 
 ## Deskripsi
