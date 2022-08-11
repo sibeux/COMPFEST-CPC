@@ -52,7 +52,7 @@ Satu baris berisi "nol", "bilangan bulat positif", "bilangan bulat negatif", ata
 
 ## Contoh Keluaran 4
 
-bilangan bulat negatif
+    bilangan bulat negatif
 
 ## Batasan
 
