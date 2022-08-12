@@ -27,4 +27,4 @@ C. Perulangan :
 
 D. Array :
 
-- [ ] [Angka Yang Hilang](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Angka%Yang%Hilang)
+- [ ] [Angka Yang Hilang](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Angka%yang%Hilang)
