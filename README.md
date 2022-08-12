@@ -28,3 +28,6 @@ C. Perulangan :
 D. Array :
 
 - [ ] [Angka Yang Hilang](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Angka%20yang%20Hilang)
+- [x] [Jungkir Balik](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Jungkir%20Balik)
+- [ ] [Meet in the Middle]()
+- [ ] [Transpose Matriks]()
