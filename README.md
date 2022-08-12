@@ -8,7 +8,7 @@ A. Masukan dan keluaran :
 
 - [x] [A plus B](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Masukan%20dan%20Keluaran/A%20plus%20B)
 - [x] [CompFest 8](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Masukan%20dan%20Keluaran/CompFest%208)
-- [x] [Hari Penimbanga](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Masukan%20dan%20Keluaran/Hari%20Penimbangan)
+- [x] [Hari Penimbangan](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Masukan%20dan%20Keluaran/Hari%20Penimbangan)
 
 B. Percabangan :
 
@@ -17,10 +17,14 @@ B. Percabangan :
 - [x] [Permen](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Percabangan/Permen)
 - [x] [Segitiga](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Percabangan/Segitiga)
 
-C. Perulangan:
+C. Perulangan :
 
 - [x] [Func-ception](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Func-ception)
 - [ ] [Kembali Lagi]()
 - [ ] [Membuat Logo]()
 - [ ] [Mas Universe]()
 - [x] [Trace](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Trace)
+
+D. Array :
+
+- [ ] [Angka Yang Hilang](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Angka%Yang%Hilang)
