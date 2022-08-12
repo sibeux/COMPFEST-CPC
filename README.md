@@ -23,4 +23,4 @@ C. Perulangan:
 - [ ] [Kembali Lagi]()
 - [ ] [Membuat Logo]()
 - [ ] [Mas Universe]()
-- [ ] [Trace]()
+- [x] [Trace](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Trace)
