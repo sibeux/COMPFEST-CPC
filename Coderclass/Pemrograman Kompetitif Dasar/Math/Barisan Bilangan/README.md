@@ -1,16 +1,8 @@
-<div align="center">
-
-# A. Barisan Bilangan
-
-</div>
-
-<div align="center">
+# Barisan Bilangan
 
 | Time limit | 1 s |
 | --- | --- |
 | Memory limit | 64 MB |
-
-</div>
 
 ## Deskripsi
 
