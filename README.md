@@ -38,3 +38,9 @@ E. Procedure dan Function :
 - [ ] [Mengurutkan Harga]()
 - [ ] [Pusing-Pusing String]()
 - [ ] [Detektor Palindrom]()
+
+### II. Pemrograman Kompetitif Dasar
+
+A. Math :
+
+- [] [Barisan Bilangan]()
