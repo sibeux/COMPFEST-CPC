@@ -36,5 +36,5 @@ M baris dengan masing-masing baris berisi N buah bilangan, yang menyatakan AT. P
 
 ## Batasan
 
-1 ≤ N, M ≤ 100
-1 ≤ Aij ≤ 100
+- 1 ≤ N, M ≤ 100
+- 1 ≤ Aij ≤ 100
