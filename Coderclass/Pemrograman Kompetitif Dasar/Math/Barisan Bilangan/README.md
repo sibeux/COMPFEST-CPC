@@ -16,7 +16,7 @@ Namun, anda penasaran mengapa Budi bisa tahu bahwa PR ini akan melelahkan. Terny
 
 Satu baris berisi 3 buah bilangan bulat N, A, dan B, sesuai deskripsi soal.
 
-Format Keluaran
+## Format Keluaran
 
 Satu baris berisi sebuah bilangan bulat, banyak bilangan yang akan Budi tulis.
 

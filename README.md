@@ -43,4 +43,4 @@ E. Procedure dan Function :
 
 A. Math :
 
-- [] [Barisan Bilangan]()
+- [ ] [Barisan Bilangan]()
