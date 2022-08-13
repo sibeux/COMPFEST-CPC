@@ -1,4 +1,8 @@
-# Barisan Bilangan
+<div align="center">
+
+# A. Barisan Bilangan
+
+</div>
 
 <div align="center">
 
