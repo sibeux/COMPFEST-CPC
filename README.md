@@ -21,7 +21,7 @@ C. Perulangan :
 
 - [x] [Func-ception](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Func-ception)
 - [ ] [Kembali Lagi]()
-- [ ] [Membuat Logo]()
+- [x] [Membuat Logo](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Membuat%20Logo)
 - [ ] [Mas Universe]()
 - [x] [Trace](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Trace)
 
@@ -35,6 +35,6 @@ D. Array :
 E. Procedure dan Function :
 
 - [x] [Jumlahin Jumlahnya Faktor](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Faktor)
-- [ ] [ ]()
-- [ ] [ ]()
-- [ ] [ ]()
+- [ ] [Mengurutkan Harga]()
+- [ ] [Pusing-Pusing String]()
+- [ ] [Detektor Palindrom]()
