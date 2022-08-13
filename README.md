@@ -30,4 +30,4 @@ D. Array :
 - [ ] [Angka Yang Hilang](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Angka%20yang%20Hilang)
 - [x] [Jungkir Balik](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Jungkir%20Balik)
 - [x] [Meet in the Middle](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Meet%20in%20the%20Middle)
-- [ ] [Transpose Matriks]()
+- [x] [Transpose Matriks](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Transpose%20Matriks)
