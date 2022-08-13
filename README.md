@@ -31,3 +31,10 @@ D. Array :
 - [x] [Jungkir Balik](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Jungkir%20Balik)
 - [x] [Meet in the Middle](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Meet%20in%20the%20Middle)
 - [x] [Transpose Matriks](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Array/Transpose%20Matriks)
+
+E. Procedure dan Function :
+
+- [x] [Jumlahin Jumlahnya Faktor](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Faktor)
+- [ ] [ ]()
+- [ ] [ ]()
+- [ ] [ ]()

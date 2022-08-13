@@ -1,8 +1,11 @@
-x,y = map(int,input().split())
-found = str(input().split())
+n,m = map(int,input().split())
+value = []
+for i in range(1,n+1):
+    value.append(i)
+pop = str(input())
+pop = pop.split()
 
-for x in range(1,x+1):
-    if str(x) in found:
-        continue
-    else:
-        print(x,end=" ")
+for i in pop:
+    value.remove(int(i))
+
+print(value, end=" ")
