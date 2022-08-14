@@ -37,7 +37,7 @@ E. Procedure dan Function :
 - [x] [Jumlahin Jumlahnya Faktor](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Faktor)
 - [ ] [Mengurutkan Harga]()
 - [ ] [Pusing-Pusing String]()
-- [ ] [Detektor Palindrom]()
+- [x] [Detektor Palindrom](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Palindrom)
 
 ### II. Pemrograman Kompetitif Dasar
 
