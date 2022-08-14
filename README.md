@@ -20,7 +20,7 @@ B. Percabangan :
 C. Perulangan :
 
 - [x] [Func-ception](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Func-ception)
-- [ ] [Kembali Lagi]()
+- [ ] [Kembali Lagi](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Kembali%20Lagi)
 - [x] [Membuat Logo](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Membuat%20Logo)
 - [x] [Mas Universe](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Mas%20Universe)
 - [x] [Trace](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Trace)
@@ -35,8 +35,8 @@ D. Array :
 E. Procedure dan Function :
 
 - [x] [Jumlahin Jumlahnya Faktor](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Faktor)
-- [ ] [Mengurutkan Harga]()
-- [ ] [Pusing-Pusing String]()
+- [ ] [Mengurutkan Harga](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Harga)
+- [ ] [Pusing-Pusing String](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Pusing-Pusing%20String)
 - [x] [Detektor Palindrom](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Palindrom)
 
 ### II. Pemrograman Kompetitif Dasar
