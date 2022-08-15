@@ -39,9 +39,13 @@ E. Procedure dan Function :
 - [ ] [Pusing-Pusing String](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Pusing-Pusing%20String)
 - [x] [Detektor Palindrom](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Procedure%20dan%20Function/Palindrom)
 
+F. Rekursi :
+
+- [ ] [Analisis Memori](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Rekursi/Analisis%20Memori)
+- [x] [Analisis Memori](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Rekursi/Banyak%20Jalan%20Menuju%20Pintu%20Keluar)
+
 ### II. Pemrograman Kompetitif Dasar
 
 A. Math :
 
 - [ ] [Barisan Bilangan](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Kompetitif%20Dasar/Math/Barisan%20Bilangan)
-- [ ] []()
