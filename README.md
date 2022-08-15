@@ -42,7 +42,7 @@ E. Procedure dan Function :
 F. Rekursi :
 
 - [ ] [Analisis Memori](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Rekursi/Analisis%20Memori)
-- [x] [Analisis Memori](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Rekursi/Banyak%20Jalan%20Menuju%20Pintu%20Keluar)
+- [x] [Banyak Jalan Menuju Pintu Keluar](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Rekursi/Banyak%20Jalan%20Menuju%20Pintu%20Keluar)
 
 ### II. Pemrograman Kompetitif Dasar
 
