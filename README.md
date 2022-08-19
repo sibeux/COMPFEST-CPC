@@ -49,6 +49,7 @@ F. Rekursi :
 A. Math :
 
 - [ ] [Barisan Bilangan](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Kompetitif%20Dasar/Math/Barisan%20Bilangan)
+- [x] [Pemilihan Umum](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Kompetitif%20Dasar/Math/Pemilihan%20Umum)
 
 ### III. Paradigma Penyelesaian Masalah
 
