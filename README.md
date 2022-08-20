@@ -20,7 +20,7 @@ B. Percabangan :
 C. Perulangan :
 
 - [x] [Func-ception](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Func-ception)
-- [ ] [Kembali Lagi](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Kembali%20Lagi)
+- [x] [Kembali Lagi](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Kembali%20Lagi)
 - [x] [Membuat Logo](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Membuat%20Logo)
 - [x] [Mas Universe](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Mas%20Universe)
 - [x] [Trace](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Dasar/Perulangan/Trace)
