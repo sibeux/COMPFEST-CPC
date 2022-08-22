@@ -51,6 +51,11 @@ A. Math :
 - [ ] [Barisan Bilangan](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Kompetitif%20Dasar/Math/Barisan%20Bilangan)
 - [x] [Pemilihan Umum](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Kompetitif%20Dasar/Math/Pemilihan%20Umum)
 
+B. Pengurutan :
+
+- [x] [Badak Chanek](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Kompetitif%20Dasar/Pengurutan/Badak%20Chanek)
+- [x] [Mengurutkan Data I](https://github.com/sibeux/COMPFEST-CPC/tree/MyProgram/Coderclass/Pemrograman%20Kompetitif%20Dasar/Pengurutan/Mengurutkan%20Data%20I)
+
 ### III. Paradigma Penyelesaian Masalah
 
 A. Complete Search :
